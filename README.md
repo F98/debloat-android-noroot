@@ -23,7 +23,7 @@ Run the adb shell and ensure your device is fully connected, next pick a text fi
 
 # Removing a specific app fucked up X on my phone what the fuck?! How do I get it back?
 
-If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.\
+If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.
   
 If you want to go undo what you have done in entirety, I have another file with all the commands needed to undo everything done.
   
