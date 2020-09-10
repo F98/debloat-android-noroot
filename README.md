@@ -8,7 +8,7 @@ You need the following:
 -Command-line application\
 -Windows/Mac/Linux PC\
 -Whatever USB cable your phone uses\
--A phone that actually turns on and operates\
+-A phone that actually turns on and operates
 
 How to use ADB: https://www.xda-developers.com/install-adb-windows-macos-linux/
 
