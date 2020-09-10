@@ -1,14 +1,14 @@
 # debloat-android-phone-noroot
-easily debloat android phones without root
+Easily debloat android phones without root
 
-# getting started
+# Getting Started
 You need the following:
 
--ADB
--Command-line application
--Windows/Mac/Linux PC
--Whatever USB cable your phone uses
--A phone that actually turns on and operates
+-ADB\
+-Command-line application\
+-Windows/Mac/Linux PC\
+-Whatever USB cable your phone uses\
+-A phone that actually turns on and operates\
 
 # What does this do and how does it work?
 
@@ -16,7 +16,9 @@ Removing applications using pm on android will remove applications from your use
 
 # Removing a specific app fucked up X on my phone what the fuck?! How do I get it back?
 
-If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.
+If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.\
+  
+If you want to go back after doing so, I have another file with all the commands needed to undo everything done.
   
  # More info
  
