@@ -29,6 +29,6 @@ If you want to go undo what you have done in entirety, I have another file with 
   
  # More info
  
- If you want to add more bullshit Android packages to the bloatware command list, make a pull request and I'll put them in there. I hate the fact that Android has to ship so heavily laden with bloatware to the point that it eats a notice-able fraction of the device's battery life and it's often the reason iPhone users believe Android phones are worse than they really are.\
+ If you want to add more bullshit Android packages to the bloatware command list, make a pull request and I'll put them in there. I hate the fact that Android has to ship so heavily laden with bloatware to the point that it eats a notice-able fraction of the device's battery life and it's often the reason iPhone users believe Android phones are worse than they really are.
  
  If you really wish to debloat an Android phone, I highly recommend installing TWRP and rooting it to get proper system access, but I also understand that not all phones are root-able and the users of said phones may want to clean up their devices too.
