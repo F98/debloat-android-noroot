@@ -1,14 +1,17 @@
 # debloat-android-phone-noroot
-Easily debloat android phones without root
+Easily debloat android phones without root!
+
+note: this is a tool I personally use for convenience when I factory reset or buy a new phone or something and find that it's either risky to root or impossible. I feel like this should still be public for simplicity's sake however.
 
 # Getting Started
 You need the following:
 
 -ADB\
 -Command-line application\
--Windows/Mac/Linux PC\
+-Linux PC. Untested on Win/Mac.\
 -Whatever USB cable your phone uses\
--A phone that actually turns on and operates
+-A phone that actually turns on and operates\
+-Python 3+
 
 How to use ADB: https://www.xda-developers.com/install-adb-windows-macos-linux/
 
@@ -19,16 +22,18 @@ Removing applications using pm on android will remove applications from your use
 
 # So I have all the requirements. What do I do?
 
-Run the adb shell and ensure your device is fully connected, next pick a text file from this repository that matches your intent, copy the entire file, paste it into your terminal, and watch all the applications get removed/reinstalled.
+Run the adb devices and ensure your device connects and is seen. Next, simply run the run.py file in this folder to get started.
 
 # Removing a specific app fucked up X on my phone what the fuck?! How do I get it back?
 
 If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.
-  
-If you want to go undo what you have done in entirety, I have another file with all the commands needed to undo everything done.
-  
+
+You can see all the packages which were removed by this program by going into the ./logs/ directory.
+
+If you want to go undo what you have done in entirety, select option 3.
+
  # More info
- 
- If you want to add more bullshit Android packages to the bloatware command list, make a pull request and I'll put them in there. I hate the fact that Android has to ship so heavily laden with bloatware to the point that it eats a notice-able fraction of the device's battery life and it's often the reason iPhone users believe Android phones are worse than they really are.
- 
+
+ If you want to add more bullshit Android packages to the bloatware command list, make a pull request and I'll put them in there. I hate the fact that Android has to ship so heavily laden with bloatware to the point that it eats a notice-able fraction of the device's battery life (and performance big time) and it's often the reason iPhone users believe Android phones are worse than they really honestly are.
+
  If you really wish to debloat an Android phone, I highly recommend installing TWRP and rooting it to get proper system access, but I also understand that not all phones are root-able and the users of said phones may want to clean up their devices too.

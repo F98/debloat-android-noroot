@@ -6,8 +6,8 @@ pm uninstall -k --user 0 com.facebook.katana
 pm uninstall -k --user 0 com.dti.cricket
 pm uninstall -k --user 0 com.facebook.appmanager
 pm uninstall -k --user 0 com.lge.gametuner
-pm uninstall -k --user 0 com.android.vending 
-pm uninstall -k --user 0 com.pandora.android 
+pm uninstall -k --user 0 com.android.vending
+pm uninstall -k --user 0 com.pandora.android
 pm uninstall -k --user 0 tv.pluto.android
 pm uninstall -k --user 0 com.android.chrome
 pm uninstall -k --user 0 com.cricketwireless.thescoop
