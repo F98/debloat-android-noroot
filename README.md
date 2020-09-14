@@ -3,6 +3,8 @@ Easily debloat android phones without root!
 
 note: this is a tool I personally use for convenience when I factory reset or buy a new phone or something and find that it's either risky to root or impossible. I feel like this should still be public for simplicity's sake however.
 
+This was created using an LG Risio 4 (LG K31 Cricket)
+
 # Getting Started
 You need the following:
 
