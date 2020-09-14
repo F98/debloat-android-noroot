@@ -28,7 +28,7 @@ Run the adb devices and ensure your device connects and is seen. Next, simply ru
 
 # Removing a specific app fucked up X on my phone what the fuck?! How do I get it back?
 
-If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing <packagename>" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.
+If you're still able to boot the device up to at least the lock screen, you can simply re-add the application package by executing "cmd package install-existing PACKAGENAME" without quotes. If the device fails to fully boot up, fortunately (and unfortunately) a hard reset will fix the issue right up.
 
 You can see all the packages which were removed by this program by going into the ./logs/ directory.
 
