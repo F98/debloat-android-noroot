@@ -45,3 +45,4 @@ pm uninstall -k --user 0 com.lge.ia.task.smartcare
 pm uninstall -k --user 0 com.lge.sizechangable.weather
 pm uninstall -k --user 0 com.lge.sizechangable.weather.platform
 pm uninstall -k --user 0 com.lge.phonemanagement
+pm uninstall -k --user 0 com.facebook.system
