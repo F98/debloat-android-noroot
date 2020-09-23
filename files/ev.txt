@@ -46,3 +46,4 @@ pm uninstall -k --user 0 com.lge.sizechangable.weather
 pm uninstall -k --user 0 com.lge.sizechangable.weather.platform
 pm uninstall -k --user 0 com.lge.phonemanagement
 pm uninstall -k --user 0 com.facebook.system
+pm uninstall -k --user 0 com.lge.smartdoctor.webview
