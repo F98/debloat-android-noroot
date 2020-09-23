@@ -46,3 +46,4 @@ cmd package install-existing com.lge.sizechangable.weather
 cmd package install-existing com.lge.sizechangable.weather.platform
 cmd package install-existing com.lge.phonemanagement
 cmd package install-existing com.lge.smartdoctor.webview
+cmd package install-existing com.lge.sizechangable.weather.theme.optimus
