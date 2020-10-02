@@ -1,24 +1,24 @@
-pm uninstall -k --user 0 com.amazon.mShop.android.shopping
-pm uninstall -k --user 0 com.lge.gamelauncher
-pm uninstall -k --user 0 com.facebook.services
-pm uninstall -k --user 0 com.amazon.appmanager
-pm uninstall -k --user 0 com.facebook.katana
-pm uninstall -k --user 0 com.dti.cricket
-pm uninstall -k --user 0 com.facebook.appmanager
-pm uninstall -k --user 0 com.lge.gametuner
-pm uninstall -k --user 0 com.android.vending
-pm uninstall -k --user 0 com.pandora.android
-pm uninstall -k --user 0 tv.pluto.android
-pm uninstall -k --user 0 com.android.chrome
-pm uninstall -k --user 0 com.cricketwireless.thescoop
-pm uninstall -k --user 0 com.lge.lgworld
-pm uninstall -k --user 0 com.lge.qmemoplus
-pm uninstall -k --user 0 com.lge.bnr
-pm uninstall -k --user 0 com.lge.ia.task.informant
-pm uninstall -k --user 0 com.lge.ia.task.smartcare
-pm uninstall -k --user 0 com.lge.sizechangable.weather
-pm uninstall -k --user 0 com.lge.sizechangable.weather.platform
-pm uninstall -k --user 0 com.lge.phonemanagement
-pm uninstall -k --user 0 com.facebook.system
-pm uninstall -k --user 0 com.lge.smartdoctor.webview
-pm uninstall -k --user 0 com.lge.sizechangable.weather.theme.optimus
+com.amazon.mShop.android.shopping
+com.lge.gamelauncher
+com.facebook.services
+com.amazon.appmanager
+com.facebook.katana
+com.dti.cricket
+com.facebook.appmanager
+com.lge.gametuner
+com.android.vending
+com.pandora.android
+tv.pluto.android
+com.android.chrome
+com.cricketwireless.thescoop
+com.lge.lgworld
+com.lge.qmemoplus
+com.lge.bnr
+com.lge.ia.task.informant
+com.lge.ia.task.smartcare
+com.lge.sizechangable.weather
+com.lge.sizechangable.weather.platform
+com.lge.phonemanagement
+com.facebook.system
+com.lge.smartdoctor.webview
+com.lge.sizechangable.weather.theme.optimus

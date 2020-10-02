@@ -9,10 +9,13 @@ rng = random.randrange(1,255)
 otf = "logs/removed-packages-" + str(rng) + "-" + dto + ".txt"
 if ic == "1":
     fi = d + "ev.txt"
+    rt = 1
 if ic == "2":
     fi = d + "abg.txt"
+    rt = 1
 if ic == "3":
     fi = d + "ue.txt"
+    rt = 0
 if ic not in o:
     print("Cancelled!")
     exit()
@@ -25,7 +28,10 @@ while g:
         u = x.split()
         t = u[-1]
         try:
-            y = subprocess.check_output("adb shell " + x, shell=True)
+            if rt == 1: et = "pm uninstall -k --user 0 "
+            if rt == 0: et = "cmd package install-existing "
+            cmdx = et + x
+            y = subprocess.check_output("adb shell " + cmdx, shell=True)
             z = ''.join(filter(str.isalnum, y.decode("utf-8")))
             print("Successfully Removed " + t)
             g.remove(x)

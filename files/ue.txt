@@ -1,49 +1,49 @@
-cmd package install-existing com.amazon.mShop.android.shopping
-cmd package install-existing com.google.android.youtube
-cmd package install-existing com.google.android.ext.services
-cmd package install-existing com.google.android.googlequicksearchbox
-cmd package install-existing com.google.android.onetimeinitializer
-cmd package install-existing com.google.android.ext.shared
-cmd package install-existing com.google.ar.lens
-cmd package install-existing com.google.android.marvin.talkback
-cmd package install-existing com.google.android.apps.work.oobconfig
-cmd package install-existing com.google.android.gm
-cmd package install-existing com.google.android.apps.tachyon
-cmd package install-existing com.lge.gamelauncher
-cmd package install-existing com.facebook.services
-cmd package install-existing com.google.android.apps.nbu.files
-cmd package install-existing com.google.android.apps.maps
-cmd package install-existing com.amazon.appmanager
-cmd package install-existing com.google.android.syncadapters.contacts
-cmd package install-existing com.google.android.gms
-cmd package install-existing com.google.android.gsf
-cmd package install-existing com.google.android.tag
-cmd package install-existing com.google.android.tts
-cmd package install-existing com.google.android.feedback
-cmd package install-existing com.google.android.printservice.recommendation
-cmd package install-existing com.google.android.calendar
-cmd package install-existing com.google.android.documentsui
-cmd package install-existing com.facebook.katana
-cmd package install-existing com.dti.cricket
-cmd package install-existing com.google.android.projection.gearhead
-cmd package install-existing com.google.android.apps.turbo
-cmd package install-existing com.facebook.appmanager
-cmd package install-existing com.lge.gametuner
-cmd package install-existing com.google.android.inputmethod.latin
-cmd package install-existing com.google.android.apps.restore
-cmd package install-existing com.android.vending 
-cmd package install-existing com.pandora.android 
-cmd package install-existing tv.pluto.android
-cmd package install-existing com.android.chrome
-cmd package install-existing com.google.android.gms.location.history
-cmd package install-existing com.cricketwireless.thescoop
-cmd package install-existing com.lge.lgworld
-cmd package install-existing com.lge.qmemoplus
-cmd package install-existing com.lge.bnr
-cmd package install-existing com.lge.ia.task.informant
-cmd package install-existing com.lge.ia.task.smartcare
-cmd package install-existing com.lge.sizechangable.weather
-cmd package install-existing com.lge.sizechangable.weather.platform
-cmd package install-existing com.lge.phonemanagement
-cmd package install-existing com.lge.smartdoctor.webview
-cmd package install-existing com.lge.sizechangable.weather.theme.optimus
+com.amazon.mShop.android.shopping
+com.google.android.youtube
+com.google.android.ext.services
+com.google.android.googlequicksearchbox
+com.google.android.onetimeinitializer
+com.google.android.ext.shared
+com.google.ar.lens
+com.google.android.marvin.talkback
+com.google.android.apps.work.oobconfig
+com.google.android.gm
+com.google.android.apps.tachyon
+com.lge.gamelauncher
+com.facebook.services
+com.google.android.apps.nbu.files
+com.google.android.apps.maps
+com.amazon.appmanager
+com.google.android.syncadapters.contacts
+com.google.android.gms
+com.google.android.gsf
+com.google.android.tag
+com.google.android.tts
+com.google.android.feedback
+com.google.android.printservice.recommendation
+com.google.android.calendar
+com.google.android.documentsui
+com.facebook.katana
+com.dti.cricket
+com.google.android.projection.gearhead
+com.google.android.apps.turbo
+com.facebook.appmanager
+com.lge.gametuner
+com.google.android.inputmethod.latin
+com.google.android.apps.restore
+com.android.vending
+com.pandora.android
+tv.pluto.android
+com.android.chrome
+com.google.android.gms.location.history
+com.cricketwireless.thescoop
+com.lge.lgworld
+com.lge.qmemoplus
+com.lge.bnr
+com.lge.ia.task.informant
+com.lge.ia.task.smartcare
+com.lge.sizechangable.weather
+com.lge.sizechangable.weather.platform
+com.lge.phonemanagement
+com.lge.smartdoctor.webview
+com.lge.sizechangable.weather.theme.optimus
