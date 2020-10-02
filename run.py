@@ -1,6 +1,7 @@
 import subprocess
 import datetime
 import random
+import os
 ic = input("Pick an option (cancel by inputting any non-options):\n1) Remove all bloat\n2) Remove all except Google Services\n3) Reinstall all\n4) Reinstall all except Google Services\n")
 o = ["1","2","3","4"]
 d = "files/"
@@ -41,6 +42,8 @@ while g:
         except:
             print(t + " is not installed so not removed")
             g.remove(x)
+if os.path.exists("logs") is False:
+    os.mkdir("logs")
 with open(otf, 'w') as f:
     for x in sr:
         f.write("%s\n" % x)
