@@ -22,6 +22,8 @@ How to use ADB: https://www.xda-developers.com/install-adb-windows-macos-linux/
 
 Removing applications using pm on android will remove applications from your user account on the device, while leaving the applications still on the device. This makes it relatively harmless and it's entirely possible to simple re-add the applications at a later date.
 
+You also should get the added benefit of increased battery life if you nuke Google. Nobody really knows why GSF takes so much battery but it is what it is.
+
 # So I have all the requirements. What do I do?
 
 Run the adb devices and ensure your device connects and is seen. Next, simply run the run.py file in this folder to get started.
