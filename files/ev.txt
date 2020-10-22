@@ -154,4 +154,3 @@ com.google.android.setupwizard
 com.google.android.apps.wellbeing
 com.google.android.configupdater
 com.google.android.webview
-com.google.android.modulemetadata
