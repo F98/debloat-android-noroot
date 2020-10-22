@@ -150,3 +150,8 @@ com.imdb.mobile
 com.gotv.nflgamecenter.us.lite
 com.infraware.polarisoffice5
 com.nuance.swype.input
+com.google.android.setupwizard
+com.google.android.apps.wellbeing
+com.google.android.configupdater
+com.google.android.webview
+com.google.android.modulemetadata
