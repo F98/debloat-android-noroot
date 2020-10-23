@@ -115,3 +115,8 @@ com.imdb.mobile
 com.gotv.nflgamecenter.us.lite
 com.infraware.polarisoffice5
 com.nuance.swype.input
+com.dti.tracfone
+com.tracfone.generic.downloaderapp
+com.lge.tracfoneChrome
+com.handmark.expressweather
+com.lge.themeservice

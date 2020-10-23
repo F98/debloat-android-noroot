@@ -155,3 +155,17 @@ com.google.android.apps.wellbeing
 com.google.android.configupdater
 com.google.android.webview
 com.google.android.modulemetadata
+com.google.android.apps.cloudprint
+com.google.android.ims
+com.google.android.partnersetup
+com.google.android.syncadapters.calendar
+com.google.android.backuptransport
+com.google.android.apps.docs.editors.sheets
+com.google.android.apps.docs.editors.slides
+com.google.android.apps.messaging
+com.google.android.apps.docs.editors.docs
+com.dti.tracfone
+com.tracfone.generic.downloaderapp
+com.lge.tracfoneChrome
+com.handmark.expressweather
+com.lge.themeservice
